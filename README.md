@@ -1,24 +1,34 @@
-## Hi there 👋
+<h2 align="center">👋 Hey there, I'm Rishabh</h2>
 
-<marquee behavior="slide" direction="left" scrollamount="10">
-  👋 Hi there, I'm <strong>YourName</strong> — a passionate developer!
-</marquee>
+<p align="center">
+  💻 Full-Stack Developer | 🌐 Web3 Enthusiast | ⚡ Always Learning
+</p>
 
-<marquee behavior="slide" direction="right" scrollamount="10">
-  💻 I love working with JavaScript, Python, and Web3 tech!
-</marquee>
+<hr>
 
-<marquee behavior="slide" direction="left" scrollamount="10">
-  🚀 Currently building awesome stuff with React & Solidity
-</marquee>
+### 🚀 About Me
 
-<marquee behavior="slide" direction="right" scrollamount="10">
-  📫 Reach me at: <a href="mailto:your.email@example.com">your.email@example.com</a>
-</marquee>
+- 🔭 I’m currently working on **React + Solidity Projects**
+- 🌱 Learning more about **AI/ML and Blockchain**
+- 👯 Looking to collaborate on **Open Source**
+- 💬 Ask me about **JavaScript, Python, or Smart Contracts**
+- 📫 How to reach me: **your.email@example.com**
+<!--- 🌍 Portfolio: [yourwebsite.com](https://yourwebsite.com) -->
 
-<marquee behavior="slide" direction="left" scrollamount="10">
-  🌐 Visit my portfolio: <a href="https://yourwebsite.com">yourwebsite.com</a>
-</marquee>
+---
+
+### 🛠️ Languages & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishabh480604&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
 
 <!--
