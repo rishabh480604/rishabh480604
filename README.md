@@ -12,7 +12,8 @@
 - 🌱 Learning more about **AI/ML and Blockchain**
 - 👯 Looking to collaborate on **Open Source**
 - 💬 Ask me about **JavaScript, Python, or Smart Contracts**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **rishabh480604@gmail.com**
+- Resume: **https://drive.google.com/file/d/1vddQnbKuTrobmWn2TrCwG9Uj-WTOuPbo/view?usp=sharing**
 <!--- 🌍 Portfolio: [yourwebsite.com](https://yourwebsite.com) -->
 
 ---
