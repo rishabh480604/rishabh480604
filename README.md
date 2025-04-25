@@ -14,6 +14,8 @@
 - 💬 Ask me about **JavaScript, Python, or Smart Contracts**
 - 📫 How to reach me: **rishabh480604@gmail.com**
 - Resume: **https://drive.google.com/file/d/1vddQnbKuTrobmWn2TrCwG9Uj-WTOuPbo/view?usp=sharing**
+- LinkedIn: **https://www.linkedin.com/in/rishabh480604/**
+- Leetcode: **https://leetcode.com/u/rishabh480604/**
 <!--- 🌍 Portfolio: [yourwebsite.com](https://yourwebsite.com) -->
 
 ---
